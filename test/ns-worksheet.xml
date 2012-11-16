@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mml="http://www.w3.org/1998/Math/MathML"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  article-type="research-article"
+  dtd-version="3.0" xml:lang="en">
+  <body>
+    <p>
+      <ext-ref xlink:href="link">An external link</ext-ref>
+    </p>
+    <p>
+      <ext-ref xl:href="link" xmlns:xl="http://www.w3.org/1999/xlink">An external link marked with a
+        different prefix</ext-ref>
+      <mml:math/>
+    </p>
+    <o:table xmlns:o="http://docs.oasis-open.org/ns/oasis-exchange/table">
+      <!-- table stuff goes here -->
+    </o:table>
+  </body>
+</article>
