@@ -28,4 +28,6 @@ http://www.wendellpiez.com
 Eat Your Vegetables
 
 With thanks to Mulberry Technologies, Inc., who sponsored the original
-version of these stylesheets.
+version of these stylesheets. A paper describing this work (presented
+at JATS-Con 2011) may be seen here:
+http://www.ncbi.nlm.nih.gov/books/NBK62086/
